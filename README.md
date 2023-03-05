@@ -1,2 +1,2 @@
 # DSA-Questions
-Adding the DSA Qs I am solving to this repo
+Adding the DSA Qs I am solving to the repo
